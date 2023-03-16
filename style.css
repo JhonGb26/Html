@@ -5,6 +5,7 @@
 
 body {
 height: 100vh;
+box-sizing: border-box;
 color: #AD5B64;
 background: #2a0e2e;
 }

@@ -1,7 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body {
-position: relative;
-width: 1920px;
-height: 1151px;
 color: #AD5B64;
 background: #2a0e2e;
 }

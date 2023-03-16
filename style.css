@@ -17,7 +17,7 @@ background: #2a0e2e;
 }
 
 .apresentacao {
-    margin: 10%;
+    margin: 10% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -25,6 +25,9 @@ background: #2a0e2e;
 
 .apresentacao__conteudo{
     width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 }
 
 .apresentacao__conteudo__texto{
@@ -41,7 +44,7 @@ background: #2a0e2e;
     justify-content: space-between;
 }
 
-.apresentacao__links__link {
+.apresentacao__links__link{
     background-color: #22D4FD;
     width: 280px;
     text-align: center;
@@ -52,4 +55,11 @@ background: #2a0e2e;
     text-decoration: none;
     color: #000000;
     font-family: 'Montserrat', sans-serif;
+}
+
+img{
+    width: 50%;
+    padding: 50px;
+    border-radius: 30%;
+    
 }

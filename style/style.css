@@ -49,11 +49,11 @@ background-color: var(--cor-primaria);
     display: flex;
     align-items: center;
     justify-content: space-between;
-    color: var(--cor-azure;)
+    color: var(--cor-azure);
 }
 
-.apresentacao__conteudo__titulo { 
-    font-size: 36px;
+.apresentacao__conteudo__titulo {
+    font-size: 2.25rem;
     font-family: var(--fonte-primaria);
     color: var(--cor-azure);
 }

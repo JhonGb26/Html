@@ -1,3 +1,19 @@
-# Criar primeiras páginas web
+# Portfólio 
+Olá, Bem vindo ao meu projeto de portfólio.
 
-Aqui crio uma pagina Web como ensinado no curso de HTML e CSS da Alura
+![image](https://github.com/JhonGb26/Html/blob/master/pagina-principal.png?raw=true)
+
+
+## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+## Feito por:
+
+### Jhon Santos
+
+### Linkedin: https://www.linkedin.com/in/jhonatas-nascimento-a9383a252/
